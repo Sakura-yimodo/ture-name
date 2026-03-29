@@ -536,8 +536,12 @@ Heaven's Lost Property Final：Eternal My Master => Heaven's Lost Property Final
 #29岁单身冒险家的日常
 29 歲單身中堅冒險家的日常 => 29岁单身冒险家的日常
 
-## 泛用规则，用于清除多余的别名 ##
+#泛用修正规则，用于去除多余文件名
+\[猎户手抄部\].*\/ => [猎户手抄部]
+\[Strange-Raw\].*\/ => [Strange-Raw]
+\[桜都字幕组\].*\/ => [桜都字幕组]
 \[ANi\].*\/ => [ANi]
+\[雪飘工作室\].*\/ => [雪飘工作室]
 
 #视频来源修正
 (?i)\bSBSUB\b => 银色子弹字幕组
