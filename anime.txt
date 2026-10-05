@@ -542,6 +542,9 @@ Heaven's Lost Property Final：Eternal My Master => Heaven's Lost Property Final
 #邻家的天使同学2
 關於我在無意間被隔壁的天使變成廢柴這件事2 => 邻家的天使同学.S2
 
+#令和的斑小姐
+令和妖神斑小姐 => 令和的斑小姐
+
 #泛用修正规则，用于去除多余文件名
 \[猎户手抄部\].*\/ => [猎户手抄部]
 \[Strange-Raw\].*\/ => [Strange-Raw]
