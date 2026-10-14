@@ -545,6 +545,9 @@ Heaven's Lost Property Final：Eternal My Master => Heaven's Lost Property Final
 #令和的斑小姐
 令和妖神斑小姐 => 令和的斑小姐
 
+#克雷瓦提斯-魔兽之王与婴儿与尸之勇者-
+Clevatess Ⅱ－魔兽之王与虚假的勇者传承－ => 克雷瓦提斯-魔兽之王与婴儿与尸之勇者-.S2
+
 #泛用修正规则，用于去除多余文件名
 \[猎户手抄部\].*\/ => [猎户手抄部]
 \[Strange-Raw\].*\/ => [Strange-Raw]
