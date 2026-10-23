@@ -557,6 +557,7 @@ Clevatess Ⅱ－魔獸之王與虛假的勇者傳承－ => 克雷瓦提斯-魔�
 
 #暴怒千金发誓复仇。～凭借魔导书之力碾碎祖国～
 Buchigire Reijou wa Houfuku wo Chikaimashita => 暴怒千金发誓复仇。～凭借魔导书之力碾碎祖国～ {[tmdbid=298831;type=tv;]}
+Buchigire Reijou Wa Houfuku Wo Chikaimashita => 暴怒千金发誓复仇。～凭借魔导书之力碾碎祖国～ {[tmdbid=298831;type=tv;]}
 
 #泛用修正规则，用于去除多余文件名
 \[猎户手抄部\].*\/ => [猎户手抄部]
